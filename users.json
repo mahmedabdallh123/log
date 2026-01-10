@@ -1,6 +1,6 @@
 {
     "admin": {"password": "0000"},
-    "ENG:ZAKRIA": {"password": "12345"},
-    "HOSSAM": {"password": "54321"}
+    "user1": {"password": "12345"},
+    "user2": {"password": "54321"}
 }
 
